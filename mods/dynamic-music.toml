@@ -1,0 +1,14 @@
+name = "Dynamic Music"
+filename = "dynamic-music-1.3.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3346/71/dynamic-music-1.3.0.jar"
+hash-format = "murmur2"
+hash = "1342775569"
+
+[update]
+[update.curseforge]
+file-id = 3346071
+project-id = 430824
+release-channel = "beta"

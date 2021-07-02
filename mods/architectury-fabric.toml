@@ -1,0 +1,14 @@
+name = "Architectury API (Fabric)"
+filename = "architectury-2.0.15-fabric.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3364/464/architectury-2.0.15-fabric.jar"
+hash-format = "murmur2"
+hash = "1857878084"
+
+[update]
+[update.curseforge]
+file-id = 3364464
+project-id = 419697
+release-channel = "beta"

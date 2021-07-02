@@ -1,0 +1,12 @@
+name = "Funny Modpack"
+author = "Glitch"
+version = "1.0.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "afadbd1981227130454744da71346b39cba22c79eece6eadec95b917619de781"
+
+[versions]
+fabric = "0.11.6"
+minecraft = "1.17.1"

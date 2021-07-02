@@ -1,0 +1,14 @@
+name = "Immersive Portals"
+filename = "immersive-portals-0.05-mc1.17-fabric.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3356/45/immersive-portals-0.05-mc1.17-fabric.jar"
+hash-format = "murmur2"
+hash = "910448288"
+
+[update]
+[update.curseforge]
+file-id = 3356045
+project-id = 332273
+release-channel = "beta"

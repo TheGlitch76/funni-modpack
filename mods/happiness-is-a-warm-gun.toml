@@ -1,0 +1,14 @@
+name = "Happiness (is a) Warm Gun"
+filename = "HWGMod-1.17-1.0.4.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3359/408/HWGMod-1.17-1.0.4.jar"
+hash-format = "murmur2"
+hash = "120494581"
+
+[update]
+[update.curseforge]
+file-id = 3359408
+project-id = 448106
+release-channel = "beta"

@@ -1,0 +1,14 @@
+name = "Dawn API"
+filename = "dawn-2.0.3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3353/147/dawn-2.0.3.jar"
+hash-format = "murmur2"
+hash = "2110968085"
+
+[update]
+[update.curseforge]
+file-id = 3353147
+project-id = 399309
+release-channel = "beta"
