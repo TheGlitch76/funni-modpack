@@ -1,0 +1,14 @@
+name = "Slime Origin"
+filename = "slimeorigin-4.0.0-1.17.x.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3352/855/slimeorigin-4.0.0-1.17.x.jar"
+hash-format = "murmur2"
+hash = "3560571151"
+
+[update]
+[update.curseforge]
+file-id = 3352855
+project-id = 446907
+release-channel = "beta"

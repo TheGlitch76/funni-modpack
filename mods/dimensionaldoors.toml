@@ -1,0 +1,14 @@
+name = "DimensionalDoors"
+filename = "DimensionalDoors-4.0.0+beta.3-26.07.2021.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3401/524/DimensionalDoors-4.0.0+beta.3-26.07.2021.jar"
+hash-format = "murmur2"
+hash = "511942238"
+
+[update]
+[update.curseforge]
+file-id = 3401524
+project-id = 284876
+release-channel = "beta"

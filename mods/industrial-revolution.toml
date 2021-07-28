@@ -1,14 +1,14 @@
 name = "Industrial Revolution"
-filename = "indrev-1.10.0-alpha.5.jar"
+filename = "indrev-1.10.0-alpha.11.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3359/37/indrev-1.10.0-alpha.5.jar"
+url = "https://edge.forgecdn.net/files/3396/583/indrev-1.10.0-alpha.11.jar"
 hash-format = "murmur2"
-hash = "3523831360"
+hash = "3192318308"
 
 [update]
 [update.curseforge]
-file-id = 3359037
+file-id = 3396583
 project-id = 391708
 release-channel = "beta"

@@ -1,0 +1,14 @@
+name = "Spice of Fabric (Fabric)"
+filename = "spiceoffabric-1.3.4+1.17.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3383/682/spiceoffabric-1.3.4+1.17.1.jar"
+hash-format = "murmur2"
+hash = "260930914"
+
+[update]
+[update.curseforge]
+file-id = 3383682
+project-id = 318416
+release-channel = "beta"
