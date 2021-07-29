@@ -7,7 +7,7 @@ metafile = true
 
 [[files]]
 file = "mods/amecs.toml"
-hash = "bcb4707d70dbd74ab36b328024d19b2dc2172ca5613b248aad3e34e81d1b2443"
+hash = "ebce66b0c3530f285f69adc48e0b740250103c0e1e4b8038112c509a4cc9483d"
 metafile = true
 
 [[files]]
@@ -57,7 +57,7 @@ metafile = true
 
 [[files]]
 file = "mods/clear-skies.toml"
-hash = "f99dbdaa76164ab26734036d22f67237386796270496384a824b55f342bcb12a"
+hash = "5717ab344e0fdeff258e2c3fa6a1421412b7bd70c32d224b4bedbde266e15de0"
 metafile = true
 
 [[files]]
@@ -67,7 +67,7 @@ metafile = true
 
 [[files]]
 file = "mods/croptopia-fabric.toml"
-hash = "762634e565ac34af0f222eac58646d2b6789d0b8fe618c25cb716247d9e53735"
+hash = "cfccae7194a09adf6247b75e0c515d290e569cd289c164b75726bd7547fd758e"
 metafile = true
 
 [[files]]
@@ -87,7 +87,7 @@ metafile = true
 
 [[files]]
 file = "mods/dawn.toml"
-hash = "6b8c4fad54505fc368cdade7167b9c73228cda35683f3a4790d275b020f10dcf"
+hash = "1a995f0217bedf4865fbe2cded16427b609ccd44f7f3086fb1ce3fc6f2a6dc67"
 metafile = true
 
 [[files]]
@@ -147,7 +147,7 @@ metafile = true
 
 [[files]]
 file = "mods/industrial-revolution.toml"
-hash = "8986e6f4ddb6a4c57dfef96e63e68677cf1184a86d2ede67c5d3156678151a3d"
+hash = "c10a4fd6a52a3718ce0e6f88a9febd8f331eee792bf3a7d0836e1cb14b857c29"
 metafile = true
 
 [[files]]
@@ -192,7 +192,7 @@ metafile = true
 
 [[files]]
 file = "mods/mo-structures.toml"
-hash = "b3c9a60a4245904bcf3c927166f40ef1bdfcdff8deb0c100137878be8ead0a5e"
+hash = "f991a3f287718040c14121267888bdacd98f8c74e2a38c9693a95dbc0c98ff3f"
 metafile = true
 
 [[files]]
@@ -207,7 +207,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-crashes.toml"
-hash = "d39a9a66dfa4c570242aadc9a935ad1217572780508a414cb1a59cfc4d1e81a9"
+hash = "11f8af07f052f5e278ab9cf5445f2bb38257d852f48a22da944044314f2dfa1a"
 metafile = true
 
 [[files]]
